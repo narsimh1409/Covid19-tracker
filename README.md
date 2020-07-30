@@ -1,6 +1,6 @@
 This is a Demo Covid tracker app. This APP displays different info for Covid.
 
-A big thumbs up to Clever Programmer(https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) who have excellent tutorial online.
+A big thumbs up to [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) who have excellent tutorial online.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
